@@ -68,4 +68,5 @@ public class Bill implements IBill{
 		// TODO Auto-generated method stub
 		listItemBill.add(item);
 	}
+	////fffff
 }
